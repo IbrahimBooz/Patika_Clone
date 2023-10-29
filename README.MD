@@ -10,7 +10,7 @@ In this project, I used java GUI effectively to create an interface. By creating
       <b>JAVA</b>
     </td>
     <td align="center" style="padding-top: 15px;">
-      <img alt="Java" src="Java.png" width="50" height="50" />
+      <img alt="Java" src="/Users/ib/Desktop/Patika_Clone/src/Java.png" width="50" height="50" />
     </td>
   </tr>
  <tr>
@@ -26,24 +26,36 @@ In this project, I used java GUI effectively to create an interface. By creating
 # Home Screen design
 I created it so that users with different memberships have separate interfaces when they enter their information.
 
-![Login.png](src%2Fimage%2FLogin.png)
+<!-- User interface for different memberships -->
+<div>
+    <img src="src/image/Login.png" width="400" height="400" alt="Login Image">
+</div>
+
 
 # Operator interface
 
 Operator can perform all functionality such as adding and removing lessons, assigning teachers, etc.
 
-![Patika.png](src%2Fimage%2FPatika.png)
+<div>
+    <img src="/Users/ib/Desktop/Patika_Clone/src/image/Patika.png" width="400" height="400" alt="Login Image">
+</div>
 
-![Courses.png](src%2Fimage%2FCourses.png)
+<div>
+    <img src="/Users/ib/Desktop/Patika_Clone/src/image/Courses.png" width="400" height="400" alt="Login Image">
+</div>
 
 # Educator interface
 
 Educator is authorized to add courses and quiz questions.
 
-![Educator.png](src%2Fimage%2FEducator.png)
+<div>
+    <img src="/Users/ib/Desktop/Patika_Clone/src/image/Educator.png" width="400" height="400" alt="Login Image">
+</div>
 
 # Student interface
 
 students are empowered to choose courses and pathways.
 
-![student.png](src%2Fimage%2Fstudent.png)
+<div>
+    <img src="/Users/ib/Desktop/Patika_Clone/src/image/student.png" width="400" height="400" alt="Login Image">
+</div>
