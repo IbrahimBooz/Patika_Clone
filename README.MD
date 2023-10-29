@@ -57,5 +57,5 @@ Educator is authorized to add courses and quiz questions.
 students are empowered to choose courses and pathways.
 
 <div>
-    <img src="student.png" width="400" height="400" alt="Login Image">
+    <img src="/Users/ib/Desktop/Patika_Clone/student.png" width="400" height="400" alt="Login Image">
 </div>
