@@ -27,35 +27,28 @@ In this project, I used java GUI effectively to create an interface. By creating
 I created it so that users with different memberships have separate interfaces when they enter their information.
 
 
-<div>
-    <img src="Login.png" width="400" height="400" alt="Login Image">
-</div>
+
+![Login.png](image%2FLogin.png)
+
+
 
 
 # Operator interface
 
 Operator can perform all functionality such as adding and removing lessons, assigning teachers, etc.
 
-<div>
-    <img src="Patika.png" width="400" height="400" alt="Login Image">
-</div>
+![Patika.png](image%2FPatika.png)
 
-<div>
-    <img src="Courses.png" width="400" height="400" alt="Login Image">
-</div>
+![Courses.png](image%2FCourses.png)
 
 # Educator interface
 
 Educator is authorized to add courses and quiz questions.
 
-<div>
-    <img src="Educator.png" width="400" height="400" alt="Login Image">
-</div>
+![Educator.png](image%2FEducator.png)
 
 # Student interface
 
 students are empowered to choose courses and pathways.
 
-<div>
-    <img src="/Users/ib/Desktop/Patika_Clone/student.png" width="400" height="400" alt="Login Image">
-</div>
+![student.png](image%2Fstudent.png)
